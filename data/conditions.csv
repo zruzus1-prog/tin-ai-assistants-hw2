@@ -1,0 +1,28 @@
+id,process,medium,parameter,value,unit,page,quote,status
+A-01,ablation,water/acetone,liquid volume,7,mL,8,"filled with 7 mL of ultrapure water",reported
+A-02,ablation,water/acetone,liquid layer thickness,10,mm,8,"The liquid layer above the target was 10 mm thick.",reported
+A-03,ablation,water/acetone,laser wavelength,1025,nm,8,"Yb:KGW laser (Amplitude Systems, 1025 nm,",reported
+A-04,ablation,water/acetone,laser repetition rate (hardware range),1–100,kHz,8,"1–100 kHz",reported
+A-05,ablation,water/acetone,laser beam diameter,2.3,mm,8,"A 2.3 mm diameter beam",reported
+A-06,ablation,water/acetone,target translation speed,2,mm/s,8,"The target was continuously moved at a speed of 2 mm s",reported
+A-07,ablation,acetone,laser pulse energy (results statement),10–100,μJ,2,"increase of pulse energy from 10 to 100 μJ",conflict
+A-08,ablation,acetone,laser pulse energy (methods statement),10–100,mJ,8,"change of pulse energy from 10 mJ to 100",conflict
+A-09,ablation,acetone,mean NP diameter at 10 μJ (TEM),25,nm,2,"increase of NPs mean diameter from 25 to 40 nm",reported
+A-10,ablation,acetone,mean NP diameter at 100 μJ (TEM),40,nm,2,"increase of NPs mean diameter from 25 to 40 nm",reported
+A-11,ablation,acetone,size dispersion FWHM,25–40,nm,2,"under relatively broad size dispersion (25–40 nm FWHM)",reported
+A-12,ablation,water,mean NP diameter,~30,nm,2,"the mean size of synthesized TiN NPs was always around 30 nm",reported
+A-13,ablation,water,size dispersion FWHM,40,nm,2,"under the size dispersion of 40 nm FWHM",reported
+A-14,ablation,water/acetone,zeta potential,−30,mV,2,"the surface potential of TiN NPs was − 30 mV",reported
+A-15,ablation,unspecified,time to saturation at 100 μJ and 5 kHz (liquid not specified in that paragraph),15,min,2,"saturation time was 15 min",reported
+A-16,ablation,water,hollow NP fraction (upper described bound),up to 60,%,2,"the relevant parameter could reach 60%",reported
+A-17,ablation,acetone,hollow NP fraction,5–10,%,2,"only 5–10% of NPs contained such hollow cavities",reported
+A-18,ablation,water,morphology outcome,amorphous flakes present,qualitative,2,"production of a certain amount of nanostructured amorphous flakes",reported
+A-19,ablation,acetone,morphology outcome,spherical and crystalline,qualitative,2,"all synthesized TiN NPs were spherical and crystalline",reported
+A-20,ablation,water/acetone,initial mean NP diameter in Fig. 4 caption (link to energy not stated),30,nm,5,"initial solutions of 30 nm nanoparticles prepared in water (black) and acetone (red)",reported
+F-00,fragmentation,water/acetone,laser pulse energy during fragmentation,not reported,—,8,"were exposed to radiation of the same laser in the absence of the target",not_reported
+F-01,fragmentation,water,outcome,loss of blue coloration,qualitative,3,"fast loss of blue coloration of solutions",reported
+F-02,fragmentation,acetone,mean NP diameter (text statement; unresolved vs Fig. 4 caption),4,nm,3,"down to 4 nm under a very narrow size dispersion",conflict
+F-03,fragmentation,acetone,size dispersion FWHM,<3,nm,3,"lower than 3 nm FWHM",reported
+F-04,fragmentation,acetone,plasmon peak shift,700→640,nm,3,"blue shifted from 700 to 640 nm",reported
+F-05,fragmentation,water/acetone,focal depth below liquid surface (general fragmentation setup),1,cm,8,"focused with the help of a 75 mm lens at 1 cm below the liquid surface",reported
+F-06,fragmentation,acetone,mean NP diameter in Fig. 4 caption (unresolved vs text),~5,nm,5,"the mean size of TiN after fragmentation in acetone is about 5 nm",conflict

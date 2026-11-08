@@ -1,0 +1,29 @@
+www.nature.com/scientificreports/
+3Scientific  RepoRts  |          (2019) 9:1194  | https://doi.org/10.1038/s41598-018-37519-1
+Briefly, colloidal solutions of TiN NPs, which were preliminary prepared by laser ablation step, are exposed to 
+radiation of the same laser in the absence of the target. The laser beam was focused 1 cm below the liquid surface, 
+while the solution was continuously homogenized by a magnetic stirrer during the fragmentation process (see 
+details in Methods section). Here, we observed a fast loss of blue coloration of solutions and related disappearance 
+of the plasmonic peak, while the extinction spectrum of colloids started to be similar to that of TiO
+x (Fig. 4, black 
+dashed line), suggesting oxidation of NPs as the main reason of the color loss. Laser fragmentation in acetone was 
+a solution to the oxidation problem. In this case, we observed a drastic decrease in the size of final TiN NPs down 
+to 4 nm under a very narrow size dispersion (lower than 3 nm FWHM as shown in Fig. 2d). Here, despite such a 
+drop in NPs size, plasmon extinction peak was still well resolvable and intense, although it slightly decreased and 
+blue shifted from 700 to 640 nm (Fig. 4, red dashed line).
+The plasmonic peak around 640–700 nm for small (4–40 nm) spherical TiN NPs is much redshifted com-
+pared to Au NPs of similar and larger sizes (520–560 nm), which promises a major breakthrough in biomedical 
+applications of nanoplasmonic structures. The extinction coefficient calculated by the Beer-Lambert law at peak 
+position varied from 18 L g
+− 1 cm− 1 for 40 nm NPs to 6 L g− 1 cm− 1 for 4 nm NPs, which is comparable with other 
+photothermal agents38,39. Moreover, the extinction peak was very broad and decreased by only 15% from 650 to 
+850 nm (Fig. 4). Such optical properties of TiN NPs look promising for their application in photothermal treat-
+ment (PTT) of tumors and photoacoustic imaging (PAI) of biological tissues.
+In vitro safety and cell uptake tests. To assess biocompatibility and cell uptake of TiN NPs synthesized by 
+laser ablation, we performed several biological tests. Safety of new TiN NPs was tested in vitro on human micro-
+vascular endothelial cells (HMEC–1) and on human cancer cells (U87–MG). These cellular models in 2D and 3D 
+geometries are highly relevant for cancer therapy applications. The viability of 2D cell cultures was evaluated on 
+Figure 1. (a) Schematics of laser ablation setup. A laser beam is focused on the surface of the TiN target, which 
+is placed in the vessel filled with a liquid. The vessel is mounted on a moving translation stage to avoid ablation 
+from the same area of the target. (b) Schematic of laser fragmentation setup to minimize size dispersion of NPs. 
+Ar bubbling used optionally to remove dissolved oxygen.

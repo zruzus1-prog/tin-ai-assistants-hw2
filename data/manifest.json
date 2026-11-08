@@ -1,0 +1,33 @@
+{
+  "hw1_repository": "https://github.com/zruzus1-prog/tin-ai-assistants-hw1",
+  "hw1_revision": "fb8b4770664027b11e50d239e48460408b1c48be",
+  "article": {
+    "citation": "Popov et al. Laser-ablative synthesis of plasmonic TiN nanoparticles for biomedical applications. Scientific Reports 9, 1194 (2019).",
+    "doi": "10.1038/s41598-018-37519-1",
+    "url": "https://doi.org/10.1038/s41598-018-37519-1",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": {
+    "data/conditions.csv": {
+      "from": "results/conditions.csv",
+      "sha256": "264598dd748a87a481ff32bb36eecacce177777dde4821a0be40c41b055b068d"
+    },
+    "data/pages/page_02.txt": {
+      "from": "paper/pages/page_02.txt",
+      "sha256": "558af5d13c867674d20ee0a4550bf8cc43b31adccebbccea2ef81f12a6cf1a8b"
+    },
+    "data/pages/page_03.txt": {
+      "from": "paper/pages/page_03.txt",
+      "sha256": "b60c5db149c6ab55e4c2a003fd8816818d72328ef2fa623f8b917d72f41bd692"
+    },
+    "data/pages/page_05.txt": {
+      "from": "paper/pages/page_05.txt",
+      "sha256": "840769c6abe5ee233c7330d9fe14de84aee7c01037781da8337a1672dfa43a1d"
+    },
+    "data/pages/page_08.txt": {
+      "from": "paper/pages/page_08.txt",
+      "sha256": "03c986e74173a21df1882b55d9ab9905eb4aff8a2556e10715305ba72bc01410"
+    }
+  }
+}

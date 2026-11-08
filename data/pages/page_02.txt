@@ -1,0 +1,77 @@
+www.nature.com/scientificreports/
+2Scientific  RepoRts  |          (2019) 9:1194  | https://doi.org/10.1038/s41598-018-37519-1
+of generating red-shifted plasmonic feature16–21 with a high photothermal conversion efficiency21. Having good 
+chemical stability and biocompatibility, TiN instruments have been successfully used in biological systems as 
+surgical and food-related tools, as well as implants22, while well-established surface chemistry of TiN structures 
+renders possible its easy functionalization by standard protocols23. However, fabrication routes for the synthesis of 
+TiN NPs are not always compatible with projected biomedical applications. Indeed, chemical synthesis routes24,25 
+are rather complicated in terms of a number of preparation steps and employ hazardous products, which can 
+cause residual contamination of NPs and related toxicity issues. On the other hand, nanocrystals prepared by 
+dry fabrication methods, including direct nitridation of TiO
+2 powders26, plasma assisted processing27–29 and laser 
+ablation in nitrogen atmosphere 17, normally cannot be dispersed and stabilized in aqueous solutions without 
+applying similar wet chemistry steps.
+Here, we demonstrate a simple and cost efficient method for the production of stable solutions of bare (ligand –  
+free) TiN NPs by methods of femtosecond (fs) laser ablation and fragmentation in water and organic (acetone) 
+solutions. By performing a series of biological tests using 2D cultures and 3D spheroids, we evidence high safety 
+and excellent cell uptake of laser-synthesized TiN NPs, as well as show efficient therapy effect on cancer cells using 
+TiN NPs as sensitizers of photothermal treatment at the plasmonic absorption band (650–800 nm).
+Results and Discussion
+synthesis and characterization of t iN nanoparticles.  For the synthesis of TiN NPs we adapted 
+methods of ultra-short laser ablation and fragmentation in liquid ambience, which were earlier used for the 
+preparation of bare Au and Ag NPs
+30–36. In the first “ablation” approach30–32, radiation from a femtosecond laser 
+(Yb:KGW , 1025 nm, 1–100 kHz) was focused onto a TiN target placed on the bottom of a glass vessel filled with 
+deionized water or acetone in order to initiate ablation of material, as shown in Fig.  1a (see details in Methods 
+section). The target was continuously moved at a speed of 2 mm s− 1 during the ablation step to avoid ablation 
+from the same point.
+We observed a blue coloration of solution within a few minutes of the ablation process, indicating the for -
+mation of TiN NPs. Concentration of NPs increased linearly at the beginning of the process and then came to 
+a saturation after some time. Saturation concentration and time until saturation depended on pulse energy. In 
+particular, for 100 μJ pulse energy and 5 kHz repetition rate saturation time was 15 min and the saturation con-
+centration was about 100 μg mL
+− 1. TiN colloids synthesized by laser ablation both in water and acetone were very 
+stable with almost no traces of aggregation or precipitation during their storage at ambient conditions for several 
+months. Such a high stability of colloidal solutions was due to an electrostatic stabilization owing to strong charg-
+ing of NPs surface similar to how it happens for other materials
+33. Indeed, according to our ζ–potential measure-
+ments, the surface potential of TiN NPs was − 30 mV , which is higher than the stability threshold (20 mV)37 for 
+colloidal solutions.
+A typical HR-TEM image of a TiN nanoparticle synthesized by pulsed laser ablation in water is shown in 
+Fig. 2a. One can see that the nanoparticle had a spherical shape and exhibited a polycrystalline structure, while 
+the size of single-crystal grains was about 1–3 nm. Interestingly, TiN NPs could have a hollow structure con-
+taining one or several cavities, as follows from the presence of light areas inside NPs on TEM images (Fig.  2e). 
+When synthesized in acetone, only 5–10% of NPs contained such hollow cavities, while for the synthesis in water 
+ambient the relevant parameter could reach 60%. Moreover, most of hollow NPs had only one cavity under ace-
+tone conditions, while under water conditions they could contain several cavities. As another observation, when 
+ablated in acetone, all synthesized TiN NPs were spherical and crystalline, while the ablation in water ambient 
+was accompanied by the production of a certain amount of nanostructured amorphous flakes. Based on our pre-
+vious experience, the formation of such amorphous non-spherical flakes during laser ablation in water is typical 
+for easily oxidizing materials (Ti, Fe, Co, etc.). Nevertheless, SAED measurements showed that spherical NPs 
+prepared under water and acetone conditions present stoichiometric TiN. An example of SAED pattern is shown 
+in Fig. 2b. Results of analysis of this pattern are summarized in Table 1. Rings 3, 4 and 6–11 correspond to first 
+8 diffraction rings of TiN FCC lattice, as follows from the comparison of their positions with data for bulk TiN, 
+taken from JCPDS database (JCPDS 38–1420). Measured lattice constant 4.272 Å ± 0.114 Å is in accordance with 
+tabulated lattice constant 4.24 Å of bulk TiN. Rings 1 and 5, which cannot be attributed to rock salt structure of 
+TiN, should belong to titanium oxide fraction of synthesized NPs. In particular, position of ring 1 is close to that 
+of (012) plane of Ti
+2O3 (JCPDS 43-1033), the position of ring 5 is close to (105) plane of anatase TiO2 and (211) 
+plane of rutile TiO2 (JCPDS 21-1272 and 21-1276). Thus, SAED data clearly indicated formation of crystalline 
+TiN NPs with lattice structure similar to that of bulk TiN with some fraction of titanium oxide. Presence of 
+titanium oxide is in accordance with previous results on the synthesis of TiN NPs by alternative methods
+20,23,25.
+Statistical analysis of TEM images demonstrated lognormal size distribution of synthesized TiN NPs as shown 
+in Fig. 2c. When ablated in acetone, the mean size of NPs depended on laser pulse energy as shown in Fig. 3. In 
+particular, the increase of pulse energy from 10 to 100 μJ led to the increase of NPs mean diameter from 25 to 
+40 nm under relatively broad size dispersion (25–40 nm FWHM). Such a pulse energy dependence for the mean 
+size of TiN NPs is in agreement with our previous data on fs laser ablation of Au in deionized water30,31. For abla-
+tion in water, the dependence of NPs size on pulse energy was not significant and the mean size of synthesized 
+TiN NPs was always around 30 nm under the size dispersion of 40 nm FWHM. It is important that TiN NPs pre-
+pared both in acetone and deionized water exhibited strong peaks around 700 nm in extinction spectra associated 
+with the excitation of surface plasmons over the NPs (solid black and red lines in Fig. 4, respectively). Here, we 
+did not observe any remarkable variations of the peak position for NPs having mean size between 25 and 40 nm. 
+It should be noted that TiN NPs prepared in acetone could be easily transferred to aqueous solutions via a simple 
+centrifugation step.
+To further reduce the mean size and narrow down size dispersion, we employed the technique of femtosecond 
+laser fragmentation, which was developed in our earlier works to minimize the size dispersion of bare Au NPs
+34–36.  

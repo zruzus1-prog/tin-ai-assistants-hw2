@@ -1,0 +1,34 @@
+www.nature.com/scientificreports/
+8Scientific  RepoRts  |          (2019) 9:1194  | https://doi.org/10.1038/s41598-018-37519-1
+have maximum transparency. In vitro tests demonstrated good internalization of TiN NPs via endocytosis and an 
+acceptable toxicity profile of laser-synthesized TiN NPs. Finally, we demonstrated a strong photothermal effect 
+using laser-synthesized NPs as sensitizers of IR radiation-induced hyperthermia, comparable and even outper-
+forming commercial TiN NPs. Altogether, our results demonstrate the potential of laser-synthesized TiN NPs as 
+a photoabsorbing agent for further photothermal studies in vivo.
+Methods
+synthesis of nanoparticles. TiN NPs were synthesized by ultra-shot (fs) laser ablation of bulk TiN target 
+in liquid medium at ambient conditions, similar to how it was done in our previous papers 30–32. Briefly, hot-
+pressed TiN target (GoodFellow) was placed on the bottom of a glass vessel filled with 7 mL of ultrapure water 
+(18.2 MΩ cm at 25 °C) or acetone (analytical reagent grade, Fisher Chemical), as shown in Fig. 1a. The liquid layer 
+above the target was 10 mm thick. A 2.3 mm diameter beam from a Yb:KGW laser (Amplitude Systems, 1025 nm, 
+1–100 kHz) was focused by a 75 mm lens on the surface of the target. To account for shifts of the focal position 
+due to non-linear effects, accompanying the interaction of intense fs pulse with liquid, we adjusted the lens – tar-
+get distance to achieve maximum productivity (maximum ablated mass per a time period). This adjustment was 
+especially important for acetone, as in the case of acetone ambience the change of pulse energy from 10 mJ to 100 
+mJ led to a shift of lens position by 10 mm. The target was continuously moved at a speed of 2 mm s
+−1  during the 
+ablation step to avoid ablation from the same point.
+As an additional method to control TiN NPs size we used a technique of fs laser fragmentation, which was 
+developed in our previous works34–36. The experimental setup for laser fragmentation is shown in Fig. 1b. Briefly, 
+colloidal solutions of TiN NPs, which were preliminary prepared by laser ablation step, were exposed to radiation 
+of the same laser in the absence of the target. The laser beam was focused with the help of a 75 mm lens at 1 cm 
+below the liquid surface. The solution was continuously homogenized by a magnetic stirrer during the fragmen-
+tation process.
+To minimize oxidation effects during ablation and fragmentation processes, in some cases we pumped out 
+oxygen dissolved in solutions by bubbling them with Ar gas before and during the experiments similarly to how 
+it was done in our previous works
+44.
+Figure 7. TEM images of endosomes containing TiN NPs (marked by arrows), observed after exposure of 
+U87–MG spheroids to 1 μg mL−1  of TiN NPs for 10 days.
+Figure 8. Area (blue marks) and viability (red marks) of U87–MG cells spheroids as a function of (a) TiN NPs 
+concentration and (b) laser exposure time. Insets demonstrate corresponding bright-field photomicrographs.

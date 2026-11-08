@@ -1,0 +1,3 @@
+* text=auto eol=lf
+data/conditions.csv -text
+data/pages/*.txt -text
