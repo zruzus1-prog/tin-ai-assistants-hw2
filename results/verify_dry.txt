@@ -1,0 +1,7 @@
+Started: 2026-11-09T02:34:42+03:00
+Revision: 0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903
+Command: python -m checks.verify --phase dry
+Exit code: 0
+
+dry: PASS (27 source records)
+Verdict: PASS

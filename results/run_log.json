@@ -1,0 +1,72 @@
+[
+  {
+    "purpose": "input contract",
+    "started_at": "2026-11-09T02:34:42+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m checks.verify --phase dry",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.1177,
+    "artifact": "results/verify_dry.txt"
+  },
+  {
+    "purpose": "intentionally incorrect mJ scale",
+    "started_at": "2026-11-09T02:34:43+03:00",
+    "revision": "c9374e5834921fd6d62aaf1de9b9d11d6fb5538f",
+    "command": "python -m checks.verify --phase smoke",
+    "exit_code": 1,
+    "expected_exit_code": 1,
+    "elapsed_seconds": 0.1013,
+    "artifact": "results/caught_error_before.txt"
+  },
+  {
+    "purpose": "restore the correct scale with identical checks",
+    "started_at": "2026-11-09T02:34:43+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m checks.verify --phase smoke",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.071,
+    "artifact": "results/caught_error_after.txt"
+  },
+  {
+    "purpose": "paired challenge experiment",
+    "started_at": "2026-11-09T02:34:43+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m checks.verify --phase sweep",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.3017,
+    "artifact": "results/verify_sweep.txt"
+  },
+  {
+    "purpose": "default full verification",
+    "started_at": "2026-11-09T02:34:43+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m checks.verify",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.3074,
+    "artifact": "results/verify_full.txt"
+  },
+  {
+    "purpose": "machine-readable evidence",
+    "started_at": "2026-11-09T02:34:43+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m checks.verify --json",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.2962,
+    "artifact": "results/verification.json"
+  },
+  {
+    "purpose": "prepare the analysis table",
+    "started_at": "2026-11-09T02:34:44+03:00",
+    "revision": "0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903",
+    "command": "python -m src.prepare",
+    "exit_code": 0,
+    "expected_exit_code": 0,
+    "elapsed_seconds": 0.0527,
+    "artifact": "results/normalized.json"
+  }
+]

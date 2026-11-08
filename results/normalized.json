@@ -1,0 +1,486 @@
+[
+  {
+    "id": "A-01",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "liquid volume",
+    "source_value": "7",
+    "source_unit": "mL",
+    "page": 8,
+    "quote": "filled with 7 mL of ultrapure water",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mL",
+    "values": [
+      "7"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-02",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "liquid layer thickness",
+    "source_value": "10",
+    "source_unit": "mm",
+    "page": 8,
+    "quote": "The liquid layer above the target was 10 mm thick.",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mm",
+    "values": [
+      "10"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-03",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "laser wavelength",
+    "source_value": "1025",
+    "source_unit": "nm",
+    "page": 8,
+    "quote": "Yb:KGW laser (Amplitude Systems, 1025 nm,",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "1025"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-04",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "laser repetition rate (hardware range)",
+    "source_value": "1\u2013100",
+    "source_unit": "kHz",
+    "page": 8,
+    "quote": "1\u2013100 kHz",
+    "status": "reported",
+    "kind": "range",
+    "unit": "kHz",
+    "values": [
+      "1",
+      "100"
+    ],
+    "conflict_group": null,
+    "analysis_ready": false
+  },
+  {
+    "id": "A-05",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "laser beam diameter",
+    "source_value": "2.3",
+    "source_unit": "mm",
+    "page": 8,
+    "quote": "A 2.3 mm diameter beam",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mm",
+    "values": [
+      "2.3"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-06",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "target translation speed",
+    "source_value": "2",
+    "source_unit": "mm/s",
+    "page": 8,
+    "quote": "The target was continuously moved at a speed of 2 mm s",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mm/s",
+    "values": [
+      "2"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-07",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "laser pulse energy (results statement)",
+    "source_value": "10\u2013100",
+    "source_unit": "\u03bcJ",
+    "page": 2,
+    "quote": "increase of pulse energy from 10 to 100 \u03bcJ",
+    "status": "conflict",
+    "kind": "range",
+    "unit": "uJ",
+    "values": [
+      "10",
+      "100"
+    ],
+    "conflict_group": "pulse_energy",
+    "analysis_ready": false
+  },
+  {
+    "id": "A-08",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "laser pulse energy (methods statement)",
+    "source_value": "10\u2013100",
+    "source_unit": "mJ",
+    "page": 8,
+    "quote": "change of pulse energy from 10 mJ to 100",
+    "status": "conflict",
+    "kind": "range",
+    "unit": "uJ",
+    "values": [
+      "10000",
+      "100000"
+    ],
+    "conflict_group": "pulse_energy",
+    "analysis_ready": false
+  },
+  {
+    "id": "A-09",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "mean NP diameter at 10 \u03bcJ (TEM)",
+    "source_value": "25",
+    "source_unit": "nm",
+    "page": 2,
+    "quote": "increase of NPs mean diameter from 25 to 40 nm",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "25"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-10",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "mean NP diameter at 100 \u03bcJ (TEM)",
+    "source_value": "40",
+    "source_unit": "nm",
+    "page": 2,
+    "quote": "increase of NPs mean diameter from 25 to 40 nm",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "40"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-11",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "size dispersion FWHM",
+    "source_value": "25\u201340",
+    "source_unit": "nm",
+    "page": 2,
+    "quote": "under relatively broad size dispersion (25\u201340 nm FWHM)",
+    "status": "reported",
+    "kind": "range",
+    "unit": "nm",
+    "values": [
+      "25",
+      "40"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-12",
+    "process": "ablation",
+    "medium": "water",
+    "parameter": "mean NP diameter",
+    "source_value": "~30",
+    "source_unit": "nm",
+    "page": 2,
+    "quote": "the mean size of synthesized TiN NPs was always around 30 nm",
+    "status": "reported",
+    "kind": "approximate",
+    "unit": "nm",
+    "values": [
+      "30"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-13",
+    "process": "ablation",
+    "medium": "water",
+    "parameter": "size dispersion FWHM",
+    "source_value": "40",
+    "source_unit": "nm",
+    "page": 2,
+    "quote": "under the size dispersion of 40 nm FWHM",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "40"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-14",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "zeta potential",
+    "source_value": "\u221230",
+    "source_unit": "mV",
+    "page": 2,
+    "quote": "the surface potential of TiN NPs was \u2212 30 mV",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mV",
+    "values": [
+      "-30"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-15",
+    "process": "ablation",
+    "medium": "unspecified",
+    "parameter": "time to saturation at 100 \u03bcJ and 5 kHz (liquid not specified in that paragraph)",
+    "source_value": "15",
+    "source_unit": "min",
+    "page": 2,
+    "quote": "saturation time was 15 min",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "min",
+    "values": [
+      "15"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-16",
+    "process": "ablation",
+    "medium": "water",
+    "parameter": "hollow NP fraction (upper described bound)",
+    "source_value": "up to 60",
+    "source_unit": "%",
+    "page": 2,
+    "quote": "the relevant parameter could reach 60%",
+    "status": "reported",
+    "kind": "upper_bound",
+    "unit": "%",
+    "values": [
+      "60"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-17",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "hollow NP fraction",
+    "source_value": "5\u201310",
+    "source_unit": "%",
+    "page": 2,
+    "quote": "only 5\u201310% of NPs contained such hollow cavities",
+    "status": "reported",
+    "kind": "range",
+    "unit": "%",
+    "values": [
+      "5",
+      "10"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "A-18",
+    "process": "ablation",
+    "medium": "water",
+    "parameter": "morphology outcome",
+    "source_value": "amorphous flakes present",
+    "source_unit": "qualitative",
+    "page": 2,
+    "quote": "production of a certain amount of nanostructured amorphous flakes",
+    "status": "reported",
+    "kind": "text",
+    "unit": null,
+    "values": [],
+    "conflict_group": null,
+    "analysis_ready": false
+  },
+  {
+    "id": "A-19",
+    "process": "ablation",
+    "medium": "acetone",
+    "parameter": "morphology outcome",
+    "source_value": "spherical and crystalline",
+    "source_unit": "qualitative",
+    "page": 2,
+    "quote": "all synthesized TiN NPs were spherical and crystalline",
+    "status": "reported",
+    "kind": "text",
+    "unit": null,
+    "values": [],
+    "conflict_group": null,
+    "analysis_ready": false
+  },
+  {
+    "id": "A-20",
+    "process": "ablation",
+    "medium": "water/acetone",
+    "parameter": "initial mean NP diameter in Fig. 4 caption (link to energy not stated)",
+    "source_value": "30",
+    "source_unit": "nm",
+    "page": 5,
+    "quote": "initial solutions of 30 nm nanoparticles prepared in water (black) and acetone (red)",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "30"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "F-00",
+    "process": "fragmentation",
+    "medium": "water/acetone",
+    "parameter": "laser pulse energy during fragmentation",
+    "source_value": "not reported",
+    "source_unit": "\u2014",
+    "page": 8,
+    "quote": "were exposed to radiation of the same laser in the absence of the target",
+    "status": "not_reported",
+    "kind": "missing",
+    "unit": null,
+    "values": [],
+    "conflict_group": null,
+    "analysis_ready": false
+  },
+  {
+    "id": "F-01",
+    "process": "fragmentation",
+    "medium": "water",
+    "parameter": "outcome",
+    "source_value": "loss of blue coloration",
+    "source_unit": "qualitative",
+    "page": 3,
+    "quote": "fast loss of blue coloration of solutions",
+    "status": "reported",
+    "kind": "text",
+    "unit": null,
+    "values": [],
+    "conflict_group": null,
+    "analysis_ready": false
+  },
+  {
+    "id": "F-02",
+    "process": "fragmentation",
+    "medium": "acetone",
+    "parameter": "mean NP diameter (text statement; unresolved vs Fig. 4 caption)",
+    "source_value": "4",
+    "source_unit": "nm",
+    "page": 3,
+    "quote": "down to 4 nm under a very narrow size dispersion",
+    "status": "conflict",
+    "kind": "exact",
+    "unit": "nm",
+    "values": [
+      "4"
+    ],
+    "conflict_group": "fragment_diameter",
+    "analysis_ready": false
+  },
+  {
+    "id": "F-03",
+    "process": "fragmentation",
+    "medium": "acetone",
+    "parameter": "size dispersion FWHM",
+    "source_value": "<3",
+    "source_unit": "nm",
+    "page": 3,
+    "quote": "lower than 3 nm FWHM",
+    "status": "reported",
+    "kind": "below",
+    "unit": "nm",
+    "values": [
+      "3"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "F-04",
+    "process": "fragmentation",
+    "medium": "acetone",
+    "parameter": "plasmon peak shift",
+    "source_value": "700\u2192640",
+    "source_unit": "nm",
+    "page": 3,
+    "quote": "blue shifted from 700 to 640 nm",
+    "status": "reported",
+    "kind": "shift",
+    "unit": "nm",
+    "values": [
+      "700",
+      "640"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "F-05",
+    "process": "fragmentation",
+    "medium": "water/acetone",
+    "parameter": "focal depth below liquid surface (general fragmentation setup)",
+    "source_value": "1",
+    "source_unit": "cm",
+    "page": 8,
+    "quote": "focused with the help of a 75 mm lens at 1 cm below the liquid surface",
+    "status": "reported",
+    "kind": "exact",
+    "unit": "mm",
+    "values": [
+      "10"
+    ],
+    "conflict_group": null,
+    "analysis_ready": true
+  },
+  {
+    "id": "F-06",
+    "process": "fragmentation",
+    "medium": "acetone",
+    "parameter": "mean NP diameter in Fig. 4 caption (unresolved vs text)",
+    "source_value": "~5",
+    "source_unit": "nm",
+    "page": 5,
+    "quote": "the mean size of TiN after fragmentation in acetone is about 5 nm",
+    "status": "conflict",
+    "kind": "approximate",
+    "unit": "nm",
+    "values": [
+      "5"
+    ],
+    "conflict_group": "fragment_diameter",
+    "analysis_ready": false
+  }
+]

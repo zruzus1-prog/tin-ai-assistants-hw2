@@ -1,0 +1,13 @@
+diff --git a/src/prepare.py b/src/prepare.py
+index 93c9542..d54200b 100644
+--- a/src/prepare.py
++++ b/src/prepare.py
+@@ -17,7 +17,7 @@ UNITS = {
+     "kHz": ("kHz", Decimal(1)),
+     "mm/s": ("mm/s", Decimal(1)),
+     "μJ": ("uJ", Decimal(1)),
+-    "mJ": ("uJ", Decimal(1000)),
++    "mJ": ("uJ", Decimal(1)),
+     "mV": ("mV", Decimal(1)),
+     "min": ("min", Decimal(1)),
+     "%": ("%", Decimal(1)),

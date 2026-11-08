@@ -1,0 +1,14 @@
+Started: 2026-11-09T02:34:43+03:00
+Revision: 0f33a9bc633b59a9a0cc8cfa83f5a77b17b99903
+Command: python -m checks.verify --phase sweep
+Exit code: 0
+
+dry: PASS (27 source records)
+smoke: B1 detected 8/8; false rejections 0/2
+seed 11: B0 6/64, B1 64/64, B1 false rejections 0/16
+seed 23: B0 8/64, B1 64/64, B1 false rejections 0/16
+seed 47: B0 4/64, B1 64/64, B1 false rejections 0/16
+seed 89: B0 6/64, B1 64/64, B1 false rejections 0/16
+seed 131: B0 8/64, B1 64/64, B1 false rejections 0/16
+paired B1-B0: 0.900000; 95% CI [0.867536, 0.932464]
+Verdict: PASS

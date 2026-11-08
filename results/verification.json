@@ -1,0 +1,466 @@
+{
+  "phase": "full",
+  "stages": {
+    "dry": {
+      "source_pages": [
+        2,
+        3,
+        5,
+        8
+      ],
+      "source_rows": 27
+    },
+    "full": {
+      "analysis_ready_rows": 18,
+      "disagreements": {
+        "fragment_diameter": [
+          {
+            "analysis_ready": false,
+            "id": "F-02",
+            "kind": "exact",
+            "page": 3,
+            "unit": "nm",
+            "values": [
+              "4"
+            ]
+          },
+          {
+            "analysis_ready": false,
+            "id": "F-06",
+            "kind": "approximate",
+            "page": 5,
+            "unit": "nm",
+            "values": [
+              "5"
+            ]
+          }
+        ],
+        "pulse_energy": [
+          {
+            "analysis_ready": false,
+            "id": "A-07",
+            "kind": "range",
+            "page": 2,
+            "unit": "uJ",
+            "values": [
+              "10",
+              "100"
+            ]
+          },
+          {
+            "analysis_ready": false,
+            "id": "A-08",
+            "kind": "range",
+            "page": 8,
+            "unit": "uJ",
+            "values": [
+              "10000",
+              "100000"
+            ]
+          }
+        ]
+      },
+      "unreported_rows": [
+        "F-00"
+      ]
+    },
+    "smoke": {
+      "b0_detected": 1,
+      "b0_false_reject": 0,
+      "b1_detected": 8,
+      "b1_false_reject": 0,
+      "families": {
+        "citation": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "conflict": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "context": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "decimal_equivalence": {
+          "b0_reject": 0,
+          "b1_reject": 0,
+          "cases": 1
+        },
+        "hardware": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "inventory": {
+          "b0_reject": 1,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "missing": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "qualifier": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        },
+        "reorder": {
+          "b0_reject": 0,
+          "b1_reject": 0,
+          "cases": 1
+        },
+        "scale": {
+          "b0_reject": 0,
+          "b1_reject": 1,
+          "cases": 1
+        }
+      },
+      "faults": 8,
+      "seed": 11,
+      "valid_controls": 2
+    },
+    "sweep": {
+      "comparison": {
+        "b0": {
+          "ci95": [
+            0.06753591769970124,
+            0.13246408230029877
+          ],
+          "mean": 0.1,
+          "sample_sd": 0.02614562582918986
+        },
+        "b1": {
+          "ci95": [
+            1.0,
+            1.0
+          ],
+          "mean": 1.0,
+          "sample_sd": 0.0
+        },
+        "minimum_practical_delta": 0.3,
+        "paired_b1_minus_b0": {
+          "ci95": [
+            0.8675359176997013,
+            0.9324640823002988
+          ],
+          "mean": 0.9,
+          "sample_sd": 0.02614562582918986
+        }
+      },
+      "repeats": [
+        {
+          "b0_detected": 6,
+          "b0_false_reject": 0,
+          "b1_detected": 64,
+          "b1_false_reject": 0,
+          "families": {
+            "citation": {
+              "b0_reject": 3,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "conflict": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "context": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "decimal_equivalence": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "hardware": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "inventory": {
+              "b0_reject": 3,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "missing": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "qualifier": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "reorder": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "scale": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            }
+          },
+          "faults": 64,
+          "seed": 11,
+          "valid_controls": 16
+        },
+        {
+          "b0_detected": 8,
+          "b0_false_reject": 0,
+          "b1_detected": 64,
+          "b1_false_reject": 0,
+          "families": {
+            "citation": {
+              "b0_reject": 3,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "conflict": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "context": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "decimal_equivalence": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "hardware": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "inventory": {
+              "b0_reject": 5,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "missing": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "qualifier": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "reorder": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "scale": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            }
+          },
+          "faults": 64,
+          "seed": 23,
+          "valid_controls": 16
+        },
+        {
+          "b0_detected": 4,
+          "b0_false_reject": 0,
+          "b1_detected": 64,
+          "b1_false_reject": 0,
+          "families": {
+            "citation": {
+              "b0_reject": 2,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "conflict": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "context": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "decimal_equivalence": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "hardware": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "inventory": {
+              "b0_reject": 2,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "missing": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "qualifier": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "reorder": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "scale": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            }
+          },
+          "faults": 64,
+          "seed": 47,
+          "valid_controls": 16
+        },
+        {
+          "b0_detected": 6,
+          "b0_false_reject": 0,
+          "b1_detected": 64,
+          "b1_false_reject": 0,
+          "families": {
+            "citation": {
+              "b0_reject": 1,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "conflict": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "context": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "decimal_equivalence": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "hardware": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "inventory": {
+              "b0_reject": 5,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "missing": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "qualifier": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "reorder": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "scale": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            }
+          },
+          "faults": 64,
+          "seed": 89,
+          "valid_controls": 16
+        },
+        {
+          "b0_detected": 8,
+          "b0_false_reject": 0,
+          "b1_detected": 64,
+          "b1_false_reject": 0,
+          "families": {
+            "citation": {
+              "b0_reject": 3,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "conflict": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "context": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "decimal_equivalence": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "hardware": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "inventory": {
+              "b0_reject": 5,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "missing": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "qualifier": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            },
+            "reorder": {
+              "b0_reject": 0,
+              "b1_reject": 0,
+              "cases": 8
+            },
+            "scale": {
+              "b0_reject": 0,
+              "b1_reject": 8,
+              "cases": 8
+            }
+          },
+          "faults": 64,
+          "seed": 131,
+          "valid_controls": 16
+        }
+      ]
+    }
+  },
+  "status": "PASS"
+}

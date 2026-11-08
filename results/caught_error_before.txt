@@ -1,0 +1,9 @@
+Started: 2026-11-09T02:34:43+03:00
+Revision: c9374e5834921fd6d62aaf1de9b9d11d6fb5538f
+Command: python -m checks.verify --phase smoke
+Exit code: 1
+
+dry: PASS (27 source records)
+Smoke: export violates the data contract
+P4 A-08: got range ['10', '100'] uJ; expected range ['10000', '100000'] uJ
+Verdict: FAIL

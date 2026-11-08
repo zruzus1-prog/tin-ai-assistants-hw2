@@ -1,0 +1,8 @@
+{
+  "python": "3.12.10",
+  "implementation": "CPython",
+  "system": "Windows",
+  "architecture": "AMD64",
+  "dependencies": [],
+  "method_commit": "2e3ca5a94561d4f41d22bb0626e17b73b593d71b"
+}
